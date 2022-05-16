@@ -4,5 +4,21 @@ body {
   background-size: 100% 100%;
   background-attachment: fixed;
   }
-  
+.v1 {
+     padding:0;
+     display: inline-block;
+     border: 1px solid white;
+     webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     width:300px;
+     height:160px;
+     margin-right:9px ;
+     margin-bottom: 9px;
+     overflow:hidden; 
+     position: relative; 
+     opacity: 0.8;
+  }
+                
+        
 
