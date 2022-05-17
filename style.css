@@ -6,7 +6,7 @@ body {
   background-position: center;
   }
 .v1 {
-     padding-left: -10;
+     padding-left:0;
      display: inline-block;
      border: 10px solid white;
      webkit-border-radius: 20px;
@@ -14,15 +14,15 @@ body {
      border-radius: 20px;
      width:924px;
      height:430px;
-     margin-top: 0;
-     margin-right:0 ;
-     margin-bottom: 0;
-     margin-left: 0;
-     object-fit:cover;
+    
+     
+
+     
+     
      overflow:hidden; 
      position:  relative;
-     left: 0;
-     bottom: 0;
+     
+   
      z-index: 2;
      opacity: 0.8;
   }
