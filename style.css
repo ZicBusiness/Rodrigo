@@ -14,8 +14,11 @@ body {
      border-radius: 20px;
      width:1920px;
      height:1088px;
-     margin-right:9px ;
-     margin-bottom: 9px;
+     margin-top: 0;
+     margin-right:0 ;
+     margin-bottom: 0;
+     margin-left: 0;
+    
      overflow:hidden; 
      position:  relative;
      left: 0;
