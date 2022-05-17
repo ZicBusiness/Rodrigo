@@ -18,7 +18,7 @@ body {
      margin-right:0 ;
      margin-bottom: 0;
      margin-left: 0;
-    
+     object-fit: fill;
      overflow:hidden; 
      position:  relative;
      left: 0;
