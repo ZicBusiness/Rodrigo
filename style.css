@@ -6,8 +6,7 @@ body {
   background-position: center;
   }
 .v1 {
-     padding-left:10;
-     padding-right:10;
+     
      display: inline-block;
      border: 10px solid white;
      webkit-border-radius: 20px;
