@@ -16,7 +16,7 @@ body {
      margin-right:9px ;
      margin-bottom: 9px;
      overflow:hidden; 
-     position:  absolute;
+     position:  relative;
      z-index: 2;
      opacity: 0.8;
   }
