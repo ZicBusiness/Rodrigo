@@ -7,23 +7,16 @@ body {
   }
 .v1 {
      
-     display: inline-block;
-     border: 10px solid white;
-     webkit-border-radius: 20px;
-     -moz-border-radius: 20px;
-     border-radius: 20px;
-     width:565px;
-     height:307px;
-    
-     
-
-     
-     
-     overflow:hidden; 
-     position:  relative;
-
-
-     opacity: 0.9;
+  display: inline-block;
+  border: 10px solid white;
+  webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  width:565px;
+  height:307px;
+  overflow:hidden; 
+  position:  relative;
+  opacity: 0.9;
   }
 h1 {
   color:white;
