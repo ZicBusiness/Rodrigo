@@ -59,7 +59,7 @@ body{
 .navbar a:hover {
 
   background-color: deepskyblue;
-border-radius:50%;
+border-radius:50px;
   color: white;
 
 }
