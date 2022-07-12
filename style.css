@@ -59,6 +59,9 @@ body{
 .navbar a:hover {
 
   background-color: deepskyblue;
+	
+	-webkit-border-radius: 20%;
+	-moz-border-radius: 20%;
 border-radius:20%;
   color: white;
 
